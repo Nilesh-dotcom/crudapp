@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Mayank",
+      "email": "mv3067@gmail.com",
+      "password": "@Ng5422",
+      "mobileno": "4622222222",
+      "id": 2
+    },
+    {
+      "name": "Mayur",
+      "email": "mv3067@gmail.com",
+      "password": "?@#Mv56625",
+      "mobileno": "5642322222",
+      "id": 3
+    },
+    {
+      "name": "NileshVarma",
+      "email": "NV3067@gmail.com",
+      "password": "Mbn/.@n221",
+      "mobileno": "3547895554",
+      "id": 5
+    }
+  ]
+}
