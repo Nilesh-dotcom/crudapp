@@ -10,11 +10,11 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatCardModule } from '@angular/material/card';
-import { TtclassDirective } from './ttclass.directive';
+
 @NgModule({
   declarations: [
     AppComponent,
-    TtclassDirective
+    
   ],
   imports: [
     BrowserModule,
